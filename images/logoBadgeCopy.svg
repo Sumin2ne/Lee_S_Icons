@@ -31,13 +31,13 @@
 
       <!-- these are my interactive overides -->
 
-      #new-badge #grey-s-text {transition: all 0.5s ease; transform-origin: 50%;}
+      #newBadge #grey-s-text {transition: all 0.5s ease; transform-origin: 50%;}
 
-#new-badge:hover #small-text {fill: white; }
+      #newBadge:hover #small-text {fill: red;}
 
-#new-badge:hover #grey-s-text {transform: rotate(130deg)}
+      #newBadge:hover #grey-s-text {transform: rotate(130deg)}
 
-#new-badge:hover #bkg-shape {fill: rgb(255, 152, 61);}
+      #newBadge:hover #bkg-shape {fill: blue;}
 
 
 <script>
