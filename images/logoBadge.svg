@@ -1,27 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-      <meta charset="UTF-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>.:SVG Icons:.</title>
-
-      <link rel="stylesheet" href="css/main.css">
-</head>
-
-<body>
-      <header>
-            <h1 class="hidden">SVG Icon Project</h1>
-            <!-- put the placeho header stuff -icons,nav, logo etc-->
-            <h2>SVG icons -Rester V Vector</h2>
-      </header>
-
-      <!--icons go hear-->
-      <section class="icon-container">
-            <div class="wrapper">
-                  <!-- new inline  -->
-                  <?xml version="1.0" encoding="UTF-8"?>
-<svg id="new-badge" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166.689 167.01">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166.689 167.01">
   <defs>
     <style>
       .cls-1 {
@@ -71,16 +49,3 @@
     <circle id="solid" class="cls-5" cx="83.488" cy="83.362" r="74.897" transform="translate(-11.519 153.314) rotate(-81.32)"/>
   </g>
 </svg>
-            </div>
-
-            <div class="wrapper">
-                  <object data="images/logoBadgeCopy.svg" type="images/svg+xml"></object>
-            </div>
-      </section>
-      <!--put your mock-up footr stuff -->
-      <footer>
-            <h2>footer content</h2>
-      </footer>
-      <script src="js/main.js"></script>
-</body>
-</html>
